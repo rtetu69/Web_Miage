@@ -1,1 +1,1 @@
-# muc_training_blog
+# mvc_training_blog
